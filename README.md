@@ -1,2 +1,2 @@
 # Python
-all python codes
+All python codes
